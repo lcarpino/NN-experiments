@@ -1,0 +1,2 @@
+#+TITLE: Convolution neural-network experiments
+#+AUTHOR: Luke Arpino
